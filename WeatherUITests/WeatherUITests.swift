@@ -2,8 +2,6 @@
 //  WeatherUITests.swift
 //  WeatherUITests
 //
-//  Created by Abel Orosz on 2022. 12. 16..
-//
 
 import XCTest
 

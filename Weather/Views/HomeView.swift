@@ -1,13 +1,11 @@
 //
-//  ContentView.swift
+//  HomeView.swift
 //  Weather
-//
-//  Created by Abel Orosz on 2022. 12. 16..
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct HomeView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -21,6 +19,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        HomeView()
     }
 }

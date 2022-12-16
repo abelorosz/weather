@@ -2,8 +2,6 @@
 //  WeatherTests.swift
 //  WeatherTests
 //
-//  Created by Abel Orosz on 2022. 12. 16..
-//
 
 import XCTest
 @testable import Weather
